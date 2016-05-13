@@ -32,7 +32,7 @@ npm: `npm install malihu-custom-scrollbar-plugin`
 
 #### 更多信息
 
-* [Plugin homepage and documentation](http://manos.malihu.gr/jquery-custom-content-scroller) 
+* [插件主页和文档](http://manos.malihu.gr/jquery-custom-content-scroller) 
 
 要求
 -------------------------
